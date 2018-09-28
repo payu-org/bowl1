@@ -1,0 +1,14 @@
+# PBS
+queue: express
+ncpus: 4
+walltime: 0:10:00
+mem: 1GB
+jobname: bowl1
+
+# Model
+model: mom
+input: bowl1
+exe: mom51_solo_default
+
+# Config
+collate: False
