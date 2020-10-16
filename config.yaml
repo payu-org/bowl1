@@ -7,8 +7,8 @@ jobname: bowl1
 
 # Model
 model: mom
-input: bowl1
-exe: mom51_solo_default
+input: /g/data/hh5/tmp/mom-test/input/bowl1
+exe: /g/data/hh5/tmp/mom-test/bin/mom51_solo_default
 
 # Config
 collate: False

@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/mom51_solo_default:
+  fullpath: /g/data/hh5/tmp/mom-test/bin/mom51_solo_default
+  hashes:
+    binhash: 423d9cf92c887fe3145c727c4fbda4d0
+    md5: 989580773079ede1109b292c2bb2ad17

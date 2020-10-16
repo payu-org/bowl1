@@ -1,0 +1,13 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/gotmturb.inp:
+  fullpath: /g/data/hh5/tmp/mom-test/input/bowl1/gotmturb.inp
+  hashes:
+    binhash: 688dcde0d6490daec76ffae681093399
+    md5: 3016ea3bccf1acd2c18eefdd6dbf02e9
+work/INPUT/grid_spec.nc:
+  fullpath: /g/data/hh5/tmp/mom-test/input/bowl1/grid_spec.nc
+  hashes:
+    binhash: 97c2c0460043f21f2971564592db2a4a
+    md5: f571a0106c4a2eba38e3c407335e8cca
