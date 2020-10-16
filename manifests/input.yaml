@@ -11,3 +11,8 @@ work/INPUT/grid_spec.nc:
   hashes:
     binhash: 97c2c0460043f21f2971564592db2a4a
     md5: f571a0106c4a2eba38e3c407335e8cca
+work/INPUT/ocean_temp_salt.res.nc:
+  fullpath: /g/data/hh5/tmp/mom-test/input/bowl1/ocean_temp_salt.res.nc
+  hashes:
+    binhash: 3f8140c401af72c88e7fb672a93b8ca7
+    md5: f506e15417ed813fde3516a262ff35e5
