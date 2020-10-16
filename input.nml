@@ -165,7 +165,7 @@
       surface_height_split=1
       barotropic_split=80
       debug=.false.
-      layout=1000,1000
+      layout=2,2
 /
 
  &ocean_momentum_source_nml
