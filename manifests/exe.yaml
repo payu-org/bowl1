@@ -1,8 +1,8 @@
 format: yamanifest
 version: 1.0
 ---
-work/mom51_solo_default:
-  fullpath: /g/data/hh5/tmp/mom-test/bin/mom51_solo_default
+work/mom5_solo:
+  fullpath: /g/data/tm70/aph502/spack/1.1/release/linux-x86_64_v4/mom5-mom_solo-cowe3suptczl6fc2qrncf5hzzfmnixuy/bin/mom5_solo
   hashes:
-    binhash: 423d9cf92c887fe3145c727c4fbda4d0
-    md5: 989580773079ede1109b292c2bb2ad17
+    binhash: c7bb6325aedc96e956132461e66903b7
+    md5: 23c680a95f60c8771c7fe44e19b5e880

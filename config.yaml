@@ -7,8 +7,18 @@ jobname: bowl1
 
 # Model
 model: mom
-input: /g/data/hh5/tmp/mom-test/input/bowl1
-exe: /g/data/hh5/tmp/mom-test/bin/mom51_solo_default
+input:
+        - INPUT/gotmturb.inp
+        - INPUT/grid_spec.nc
+        - INPUT/ocean_temp_salt.res.nc
+        - INPUT/salt_sfc_restore.nc
+        - INPUT/tau.nc
+        - INPUT/temp_sfc_restore.nc
+        - INPUT/water_flux.nc
+
+exe: /g/data/tm70/aph502/spack/1.1/release/linux-x86_64_v4/mom5-mom_solo-cowe3suptczl6fc2qrncf5hzzfmnixuy/bin/mom5_solo
+
+runlog: False
 
 # Config
 collate: False
