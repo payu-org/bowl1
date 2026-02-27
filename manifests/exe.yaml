@@ -2,7 +2,7 @@ format: yamanifest
 version: 1.0
 ---
 work/mom5_solo:
-  fullpath: /g/data/tm70/aph502/spack/1.1/release/linux-x86_64_v4/mom5-mom_solo-cowe3suptczl6fc2qrncf5hzzfmnixuy/bin/mom5_solo
+  fullpath: /scratch/tm70/aph502/mom/bin/mom5_solo
   hashes:
     binhash: c7bb6325aedc96e956132461e66903b7
     md5: 23c680a95f60c8771c7fe44e19b5e880
