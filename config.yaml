@@ -7,6 +7,7 @@ jobname: bowl1
 
 # Model
 model: mom
+exe: mom5_solo
 input:
         - INPUT/gotmturb.inp
         - INPUT/grid_spec.nc
@@ -16,9 +17,9 @@ input:
         - INPUT/temp_sfc_restore.nc
         - INPUT/water_flux.nc
 
-exe: mom5_solo
-
 runlog: False
+metadata: 
+    enable: False
 
 # Config
 collate: False
