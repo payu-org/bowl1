@@ -11,7 +11,7 @@ This configuration requires a MOM5 solo build, i.e. no sea-ice or BGC
 coupled components.
 
 Using the [ACCESS-NRI spack configuration at NCI](https://docs.access-hive.org.au/getting_started/spack/) 
-this is a known good spack environment:
+this is a known good [spack environment to create](https://docs.access-hive.org.au/models/build_a_model/build_source_code/?h=spack+env#create-a-spack-development-environment) for MOM5:
 ```yaml
 # This is a Spack Environment file.
 # 
