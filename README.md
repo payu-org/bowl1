@@ -58,6 +58,6 @@ also be possible to simply run a MOM5 solo executable in the directory
 where this repo is cloned, as all configuration files are present, and the
 model defaults to reading inputs from an `INPUT` directory.
 
-If using payu the path to the executable needs to be modified in the 
+If using payu, the path to the executable needs to be modified in the 
 `config.yaml`.
 
